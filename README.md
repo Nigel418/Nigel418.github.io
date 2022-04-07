@@ -18,7 +18,7 @@ Wraith is a flexible Offensive Legend who can use her powers to relocate and fla
 
 ![capsule_616x353](https://user-images.githubusercontent.com/102642220/162094610-4d7ced8f-0d2c-4204-8a64-5d24f5f058ee.jpg)
 
-For Honor is an action fighting game set in a medieval fantasy world.[1] Players can choose from one of five factions: the Iron Legion (Knights), the Warborn (Vikings), the Dawn Empire (Samurai), and the Wu Lin (Samurai) (Ancient Chinese). The fifth group, dubbed Outlander, was introduced in January 2022 and currently has only one character. The Wu Lin faction was introduced in October 2018 with the Marching Fire expansion.[2] Each hero also has phrases in their native language that will appear when specific acts are taken. The Wu Lin speak Mandarin, whereas the Knights speak Latin, the Vikings speak Icelandic, the Samurai speak Japanese, and the Knights speak Latin. At launch, each group had four classes, with two more being introduced later.
+For Honor is an action fighting game set in a medieval fantasy world. Players can choose from one of five factions: the Iron Legion (Knights), the Warborn (Vikings), the Dawn Empire (Samurai), and the Wu Lin (Samurai) (Ancient Chinese). The fifth group, dubbed Outlander, was introduced in January 2022 and currently has only one character. The Wu Lin faction was introduced in October 2018 with the Marching Fire expansion. Each hero also has phrases in their native language that will appear when specific acts are taken. The Wu Lin speak Mandarin, whereas the Knights speak Latin, the Vikings speak Icelandic, the Samurai speak Japanese, and the Knights speak Latin. At launch, each group had four classes, with two more being introduced later.
 #### Main
 **Orochi**
 
@@ -26,3 +26,11 @@ The Imperial assassins of the Samurai. They roam the battlefield like ghosts, te
 **This character is an assasin type which focuses on fast moves and feints.**
 
 3. **League of Legends**
+
+![content-original-championillustrations-group-slashes](https://user-images.githubusercontent.com/102642220/162124985-1199638b-ceb3-40e3-befa-237cd50fc49e.jpg)
+
+League of Legends is an isometric multiplayer online battle arena (MOBA) game in which the player controls a character ("champion") with a set of special skills. There are 157 champions eligible to play as of November 2021. Champions gain levels by killing foes and gaining experience points (XP) during the course of a match. Items are purchased with gold, which players earn both passively and actively by destroying the opponent team's minions, champions, or defensive constructions. Items are purchased in the primary game mode, Summoner's Rift, through a shop menu that is only available to players when their champion is in the team's base. Levels and stuff do not transfer across matches.
+#### Main
+**Yasuo**
+
+Yasuo is a nimble fighter who wields the air itself against his adversaries. He is an Ionian of deep resolve. He was wrongfully accused of murdering his master as a proud young man, and since he was unable to prove his innocence, he was compelled to kill his own brother in self-defense. Yasuo could not forgive himself for everything he had done, even after his master's true killer was discovered, and now wanders his nation with only the wind to guide his blade.

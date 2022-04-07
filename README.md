@@ -34,3 +34,6 @@ League of Legends is an isometric multiplayer online battle arena (MOBA) game in
 **Yasuo**
 
 Yasuo is a nimble fighter who wields the air itself against his adversaries. He is an Ionian of deep resolve. He was wrongfully accused of murdering his master as a proud young man, and since he was unable to prove his innocence, he was compelled to kill his own brother in self-defense. Yasuo could not forgive himself for everything he had done, even after his master's true killer was discovered, and now wanders his nation with only the wind to guide his blade.
+
+![0x0](https://user-images.githubusercontent.com/102642220/162126376-12fc0943-ccc5-48e9-bf5c-6d0006f1ae08.jpg)
+

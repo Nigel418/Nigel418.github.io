@@ -11,6 +11,7 @@ Players establish two- or three-player squads before the game and choose from pr
 Since the game's debut, alternate modes allowing for solo and two-player squads have been added, enabling for online multiplayer battle royale games with squads of three players using pre-made characters with specific skills dubbed "Legends," similar to those seen in hero shooters.
 #### Main
 **Wraith**
+
 Wraith is a flexible Offensive Legend who can use her powers to relocate and flank adversaries. Into the Into the Void, Wraith's tactical ability, enabling her to maneuver or take shelter while being indestructible for 4 seconds. Dimensional Dimensional Rift, Wraith's ultimate power, creates an entrance and exit vortex that allows her squad to travel safely over long distances. Her Voices from the Void passive provides auditory alerts to her and her companions about adversaries shooting at them.
 
 2. **For Honor**
@@ -20,6 +21,7 @@ Wraith is a flexible Offensive Legend who can use her powers to relocate and fla
 For Honor is an action fighting game set in a medieval fantasy world.[1] Players can choose from one of five factions: the Iron Legion (Knights), the Warborn (Vikings), the Dawn Empire (Samurai), and the Wu Lin (Samurai) (Ancient Chinese). The fifth group, dubbed Outlander, was introduced in January 2022 and currently has only one character. The Wu Lin faction was introduced in October 2018 with the Marching Fire expansion.[2] Each hero also has phrases in their native language that will appear when specific acts are taken. The Wu Lin speak Mandarin, whereas the Knights speak Latin, the Vikings speak Icelandic, the Samurai speak Japanese, and the Knights speak Latin. At launch, each group had four classes, with two more being introduced later.
 #### Main
 **Orochi**
+
 The Imperial assassins of the Samurai. They roam the battlefield like ghosts, terrorizing and slaughtering those unfortunate enough to cross their path. Lightly armored and trained in the arts of stealth and deception, the Orochi dispatches enemies with a katana. Usually loyal beyond reproach, the Orochi holds the darker samurai secrets of dealing death in myriad ways, from throwing deadly knives to using a poisoned blade.
 **This character is an assasin type which focuses on fast moves and feints.**
 
